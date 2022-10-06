@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lesleychavez
-- 👀 I’m interested in reading book, audiobook and restarant.
-- 🌱 I’m currently learning programming and busines.
+- 👀 I’m interested in  learning programming, busines, reading book, audiobook and restarant.
+- 🌱 I’m currently on reading and restarant.
 - 💞️ I’m looking to collaborate on studying
 - 📫 How to reach me lesliechavez118@gmail.com
 
